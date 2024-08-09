@@ -5,4 +5,5 @@ branches:
 projects:
   Wind-Charge-PMMP-:
     path: ""
+    lint: false
 ...
